@@ -1,7 +1,7 @@
 # dns-spam-lookup
 Made for the course "Network Programming", 2020, FMI 
 
-!IMPORTANT!: Compile the program <br>
+Language: JAVA <br>
 
 Usage: <br>
   pass ip addressess as command line arguments to the program <br>
